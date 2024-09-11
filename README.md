@@ -126,15 +126,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 🖇️ Colaborando✒️
 
-Alan Martins<br>
-Giovanni<br>
-Keson<br>
-Vitor Gabriel<br>
-Victor Hugo<br>
-
-## Contato
-
-Para mais informações, entre em contato com [Alan](https://github.com/alanmmartins).
-[Giovanni](https://github.com/alanmmartins)
-[Giovanni](https://github.com/alanmmartins)
-[Giovanni](https://github.com/alanmmartins)
